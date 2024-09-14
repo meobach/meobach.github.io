@@ -22,9 +22,9 @@ repository               : "meobach/meobach.github.io"
 author:
   # Biographic information
   avatar           : "1595438528562.jfif"
-  name             : "Thong Bach"
+  name             : "      Thong Bach"
   pronouns         : # example: "she/her"  
-  bio              : "Genius is 1% talent and 99% percent hard work"
+  # bio              : ""
   location         : "Geelong"
   employer         : "Applied AI Institute, Deakin University"
   uri              : # URL
