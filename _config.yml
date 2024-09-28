@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Thong Bach / PhD student"
+title                    : "Thong Bach's webpage"
 title_separator          : "-"
 name                     : &name "Thong Bach"
 description              : &description "Machine learning lover"
@@ -22,7 +22,7 @@ repository               : "meobach/meobach.github.io"
 author:
   # Biographic information
   avatar           : "1595438528562.jfif"
-  # name             : "      Thong Bach"
+  name             : "Thong Bach"
   pronouns         : # example: "she/her"  
   # bio              : ""
   location         : "Geelong"
